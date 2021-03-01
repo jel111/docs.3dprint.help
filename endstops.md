@@ -1,3 +1,7 @@
+---
+description: This Document was copied directly from Marlin.org Docs
+---
+
 # Endstops
 
 Endstops or limit switches are used on every moving axes of a 3D printer. The following chapter will provide information on:
