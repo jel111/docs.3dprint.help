@@ -8,6 +8,7 @@
 * [First Steps to 3d Printing](first-steps-to-3d-printing.md)
 * [First Print!](first-print.md)
 * [Get your Print to Stick](get-your-print-to-stick.md)
+* [Endstops](endstops.md)
 * [OctoPrint makes you Wirefree!](octoprint-makes-you-wirefree.md)
 * [Wire Power Switch for a 3D Printer](wire-power-switch-for-a-3d-printer.md)
 * [Articles](p/README.md)
