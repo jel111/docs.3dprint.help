@@ -14,5 +14,7 @@ Homing definition from [MakerBot](https://support.makerbot.com/s/article/What-is
 
 I have read much on this topic today and have found out there are a few ways to try and fix this. My first attempt is to change the firmware. changing Y_\__HOME_\__DIR from -1 to 1 is shown on the Marlin site. I changed this and tried to compile but was shown an error. I needed to also comment out line 624 //\#define USE\_YMIN\_PLUG and uncomment line 627 define USE\_YMAX\_PLUG. 
 
+The above has been the solution for the JohnBot. I have read some say this is not the proper solution but I have tried numerous things and this is what's working. My next hurdle will be getting the bed level again and continuing through the TeachingTechs' awesome [calibration site](https://teachingtechyt.github.io/index.html).
+
  
 
