@@ -18,4 +18,5 @@
     * [Update: Lulzbot AO 101](p/update-lulzbot-ao-101/update-lulzbot-ao-101.md)
   * [Lulzbot 3D Printer Upgrade](p/lulzbot-3d-printer-upgrade.md)
   * [Lulzbot is now JohnBot](p/lulzbot-is-now-johnbot.md)
+  * [JohnBot Issues](p/johnbot-issues.md)
 
