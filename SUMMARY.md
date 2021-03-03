@@ -6,6 +6,7 @@
 * [Which 3D Printer?](which-3d-printer-1.md)
 * [3d Printer Bed Level](3d-printer-bed-level.md)
 * [First Steps to 3d Printing](first-steps-to-3d-printing.md)
+* [X/Y&Z Direction of 3d Printer](x-y-and-z-direction-of-3d-printer.md)
 * [First Print!](first-print.md)
 * [Get your Print to Stick](get-your-print-to-stick.md)
 * [Endstops](endstops.md)
@@ -17,5 +18,4 @@
     * [Update: Lulzbot AO 101](p/update-lulzbot-ao-101/update-lulzbot-ao-101.md)
   * [Lulzbot 3D Printer Upgrade](p/lulzbot-3d-printer-upgrade.md)
   * [Lulzbot is now JohnBot](p/lulzbot-is-now-johnbot.md)
-* [X/Y&Z Direction of 3d Printer](x-y-and-z-direction-of-3d-printer.md)
 
