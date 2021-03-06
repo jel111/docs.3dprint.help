@@ -4,7 +4,7 @@ description: 3D Printing Help. Learn about 3D Printing and get the answers you n
 
 # 3D Printing Help
 
-### **Rookie Printers Unite!** 
+### Start 3D **Printing!** 
 
 I first found 3d printing around 5 years ago and was really struck by how many things I could make myself. I jumped on Craigslist in Chicago, where I lived at the time, and searched to get the best deal I could find. Little did I know I had jumped headfirst into a very deep rabbit hole and I am still digging with no end in sight. To some, this may sound scary and turn you off 3d printing but, for people who like to make things _or_ tinker. In the last few years, 3d printing is morphing into the Maker who wants to design and prototype to get things out the door faster leaving the tinkering to people like me who would rather buy an inexpensive machine versus one that is ready to go and has telephone support. Neither type is bad or better I am just with the former group being the cheapo that I am. All fun aside it is a rabbit hole either way but thanks to a thriving community you are not alone. On that note, the answers to our questions are strewn all over the internet and my goal with this Wiki is to bring that knowledge into one central location. 
 
