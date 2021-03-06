@@ -1,8 +1,6 @@
----
-description: 'Excerpt from Wikipedia (https://en.wikipedia.org/wiki/3D_printing)'
----
-
 # History of 3d Printing
+
+Excerpt from Wikipedia \([https://en.wikipedia.org/wiki/3D\_printing](https://en.wikipedia.org/wiki/3D_printing)\)
 
 #### The 1950s
 
