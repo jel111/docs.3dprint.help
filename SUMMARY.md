@@ -1,6 +1,7 @@
 # Table of contents
 
 * [3D Printing Help](README.md)
+* [History of 3d Printing](history-of-3d-printing.md)
 * [Why 3D Printing](why-3d-printing.md)
 * [Type of Machine](type-of-machine.md)
 * [Which 3D Printer?](which-3d-printer-1.md)
